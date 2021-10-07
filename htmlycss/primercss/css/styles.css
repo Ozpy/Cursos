@@ -1,0 +1,38 @@
+/*p{*/
+  /*[>color:blue;<]*/
+/*}*/
+/*Por clase*/
+.parrafo{
+  color:red;
+}
+/*Por ID*/
+#texto{
+ color:yellow;  
+}
+.main-nav{
+ margin-top:30px;
+ list-style:none;
+ padding-left:0%;
+ padding-right:10%;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ background-color:yellow;
+} 
+.main-nav__item{
+  display: inline-block;
+}
+.main-nav__item a{
+  /*color:white;*/
+  padding:5px;
+  border-radius: 20%;
+  /*background: red; */
+}
+.main-nav__item a:hover{
+  color:blue;
+}
+.main-nav__item a:active{
+  color: aqua;
+}
+.main-nav__item a::after{
+  content:"	|	"
+}

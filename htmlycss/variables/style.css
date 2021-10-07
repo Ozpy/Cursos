@@ -1,0 +1,32 @@
+:root{
+  /*--primary-color:#003476;*/
+  /*--secundary-color:#b4d3f7;*/
+  /*--header-size:4rem;*/
+  /*--font-size:1.8rem;*/
+  --font:red;
+}
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+html{
+	font-size:62.5%;
+}
+header{
+  width: 100vw;
+  height: 15vh;
+  background-color: blue;
+}
+main{
+  width: 100vw;
+  height: 70vh;
+  font-size:1.8rem;
+}
+h1{
+  font-size:4rem;
+}
+footer {
+  width: 100vw;
+  height: 15vh;
+}

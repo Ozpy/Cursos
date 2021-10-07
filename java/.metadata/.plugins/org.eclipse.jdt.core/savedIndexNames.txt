@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/mnt/c/Users/Oscar/Documents/cursos/java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+424518642.index
+646308851.index
+3842426239.index

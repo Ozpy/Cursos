@@ -1,0 +1,19 @@
+    .container{
+      width: 800px;
+      margin:0 auto;
+    }
+    .c1{
+      width: 50%;
+    } 
+    .c2{
+     width: 50%;
+    }
+    .c3{
+      width: 100%;
+    }
+    .c4{
+      width: 60%;
+    }
+    .c5{
+      width: 40%;
+    }
